@@ -1,0 +1,3 @@
+[submodule "dnlib"]
+	path = resourcelib
+	url = https://github.com/resourcelib/resourcelib.git
